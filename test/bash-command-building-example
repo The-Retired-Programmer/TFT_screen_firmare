@@ -1,0 +1,1 @@
+$(echo -e "\x1b\x01\x01\xff\x1b\x02\x07\xffABC"  >/dev/ttyACM1 )
