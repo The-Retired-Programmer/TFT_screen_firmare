@@ -1,2 +1,2 @@
-# TFT_screen_firmare
+# TFT_screen_firmware
 Firmware for a TFT Screen (arduino based)
