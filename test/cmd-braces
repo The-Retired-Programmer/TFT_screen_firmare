@@ -1,1 +1,0 @@
-echo "{0}{1,1}{2,3}ABC"  >/dev/ttyACM1 

@@ -1,0 +1,2 @@
+echo "{filled-box,60,120,120,150,2}" >/dev/ttyACM1
+echo "{filled-box,75,127,105,142,7}" >/dev/ttyACM1

@@ -1,0 +1,3 @@
+echo "{clear-screen}{text-colour,2}{font,1}{goto-pixel,0,33}ABC"  >/dev/ttyACM1 
+echo "{font,1}{text-colour,3}DEF"  >/dev/ttyACM1
+echo "{line,60,155,60,60,6}"  >/dev/ttyACM1
